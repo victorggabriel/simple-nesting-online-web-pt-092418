@@ -125,4 +125,7 @@ def adding_to_dennis
         }
      }
 
+		 programmer_hash[:grace_hopper][:yukihiro_matsumoto]
+		 programmer_hash[:alan_kay][:yukihiro_matsumoto]
+ 		 programmer_hash[:dennis_ritchie][:yukihiro_matsumoto]
 end
